@@ -1,4 +1,4 @@
-# group2-softwareengineering
+# csci362-softwareengineering
 
 Group #2
 
