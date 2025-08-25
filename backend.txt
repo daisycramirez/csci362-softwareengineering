@@ -1,0 +1,1 @@
+I am doing backend for our project. My responsibilities will be to design and maintain the serverside infrastructure. 
