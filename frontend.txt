@@ -1,0 +1,3 @@
+My role in this project is the frontend developer. I will focus on designing and implementing the user interface using modern 
+frameworks and ensuring a smooth user experience. My responsibilities include styling, layout design, and making the application 
+responsive and intuitive. I will collaborate with the Brooke who is our backend developer to integrate APIs and ensure smooth user interaction.
