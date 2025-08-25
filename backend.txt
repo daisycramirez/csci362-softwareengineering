@@ -1,1 +1,3 @@
-My responsibility as a backend developer is to focus on building and maintaining the behind the scenes functionality that powers the application. I will design and manage databases, handle data storage, and ensure the information flows smoothly between the user interface and the server. I will also collaborate closely with frontend developers to ensure the functionality aligns with the overall user experience. 
+My responsibility as a backend developer is to focus on building and maintaining the behind the scenes functionality that powers the application. 
+I will design and manage databases, handle data storage, and ensure the information flows smoothly between the user interface and the server. 
+I will also collaborate closely with frontend developers to ensure the functionality aligns with the overall user experience. 
