@@ -1,5 +1,5 @@
 For this project, my role is to maintain and create the technical documentation. 
 This includes documents such as the Software Requirements Specification (SRS), design documents, and user manuals. 
 I will be expected to ensure clarity and consistency throughout all documentation.
-I also intend to organize the workflow to allow the work to be efficient. 
+I also intend to organize the workflow to allow the work to be efficient.
 Lastly, I will contribute to the testing process by identifing erross. 
